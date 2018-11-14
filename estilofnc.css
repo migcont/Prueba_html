@@ -10,6 +10,12 @@ body {
   padding: 10px;
 }
 .navbar-default{
-background-color: #86BCE2;
+background-color: #0060A8;;
+border-color:#337ab7
 }
 .navbar-brand{color:#fff;}
+
+.navbar-default .navbar-nav>li>a{color:#FFF;}
+.navbar-brand{color:#FFF!important; background-color:#0060A8;}
+
+/*.navbar-brand:hover {background-color:#0060A8!important;}/*
