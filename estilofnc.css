@@ -1,20 +1,8 @@
-body {
-  padding-bottom: 70px;
-  margin-top: 15px;
-}
-.media{
-  margin:0;
-  padding:40px;
-}
-.media-body{
-  padding: 10px;
-}
-.navbar-default{
-  background-color: #0060A8;;
-  border-color:#337ab7
-}
+body {  padding-bottom: 70px;  margin-top: 15px;}
+.media{  margin:0;  padding:40px;}
+.media-body{  padding: 10px;}
+.navbar-default{  background-color: #0060A8; border-color:#337ab7}
 .navbar-brand{color:#fff;}
-
 .navbar-default .navbar-nav>li>a{color:#FFF;}
 .navbar-brand{color:#FFF!important; background-color:#0060A8;}
 
