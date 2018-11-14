@@ -1,1 +1,15 @@
-body { padding-bottom: 70px; margin-top: 15px;}
+body {
+  padding-bottom: 70px;
+  margin-top: 15px;
+}
+.media{
+  margin:0;
+  padding:40px;
+}
+.media-body{
+  padding: 10px;
+}
+.navbar-default{
+background-color: #86BCE2;
+}
+.navbar-brand{color:#fff;}
